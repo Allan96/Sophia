@@ -19,3 +19,5 @@ Através de 3 produtos interligados entre eles, conseguimos atingir o nosso publ
 + APIs da Twilio
 + APIs para população da nossa recomensação de postos de saúde da CCR,  clinicas e farmácias
 + APIs para população de pontos de parada, postos com banheiros e alimentações
+
+![Teste agora mesmo](https://i.imgur.com/FHDzdwF.png)
